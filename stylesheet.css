@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(104, 187, 285);
+    display: inline;
+    font-size: 12;
+}
+
+h1 {
+    text-align: center;
+}
+#container {
+    display: inline-table;
+}
+
+#left-box {
+    background-color: rgb(9, 30, 45);
+    text-align: block;
+    color: white;
+    display: table-cell;
+    border-radius: 10px;
+}
+
+#right-box {
+    display: table-cell;
+   
+}
+
+#expériences-box {
+    background-color: white;
+     border-radius: 8px;
+}
+
+#studies-box {
+    background-color: white;
+     border-radius: 8px;
+}
+
+#Mon_Profil {
+    font-style: italic;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0px;
+    font-style: italic;
+    
+}
+
+
